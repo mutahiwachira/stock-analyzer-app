@@ -366,7 +366,7 @@ server <- function(input, output, session) {
             inverse = FALSE,
             collapsible = TRUE,
             
-            theme = shinytheme("cyborg"),
+            theme = shinytheme("paper"),
             
             header = div(
                 class = "pull-right",
