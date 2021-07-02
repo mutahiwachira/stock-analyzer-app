@@ -32,7 +32,7 @@ ui <- tagList(
     
     # CSS ----
     tags$head(
-        tags$link(rel = "stylesheet", type = "text/css", href = shinytheme("cyborg")),
+        tags$link(rel = "stylesheet", type = "text/css", href = shinytheme("paper")),
         tags$link(rel = "stylesheet", type = "text/css", href = "styles.css")
     ),
     
